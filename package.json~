@@ -1,0 +1,25 @@
+{
+  "name": "autobuses",
+  "version": "1.0.0",
+  "description": "proyecto EMT",
+  "main": "openlayers.js",
+  "dependencies": {
+    "openlayers": "^3.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node serve.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismaelbargos/Proyecto.git"
+  },
+  "author": "ismaelbargos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismaelbargos/Proyecto/issues"
+  },
+  "homepage": "https://github.com/ismaelbargos/Proyecto#readme"
+}
+
